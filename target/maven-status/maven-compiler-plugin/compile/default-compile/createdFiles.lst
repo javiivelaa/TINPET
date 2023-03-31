@@ -1,0 +1,13 @@
+dao\Mensaje.class
+dao\Pais.class
+dao\Usuario.class
+manager\PerroManager.class
+dao\Raza.class
+dao\SexoPersona.class
+services\CrearPerro.class
+dao\Ciudad.class
+dao\Encuentro.class
+dao\Perro.class
+dao\SexoPerro.class
+services\CrearUsuario.class
+manager\UsuarioManager.class
